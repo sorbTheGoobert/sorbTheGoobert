@@ -4,7 +4,7 @@
 
 here is a run down of some stuff.
 
-- Im a student at <Pinecone> (i hope i said the name correctly) and im currently learning web development (🤡🤓).
+- Im a student at "<Pinecone>" (i hope i said the name correctly) and im currently learning web development (🤡🤓).
 - My whole intention of becoming a programmer is just because it "fits me" (🤓🤓🤓🤓). You would have known why if you saw me irl.
 - Im currently working on like 3 (?) projects at once and they are doing good. atleast i think. (🤓🤓🤓🤓🤓🤓🤓🤓)
 - I really like games and thats why around 40% of my projects are game related stuff.
