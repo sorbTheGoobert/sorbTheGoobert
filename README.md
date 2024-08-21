@@ -5,6 +5,7 @@
 <img src="./ULTRAPET.gif"/>
 
 <div>
+  <p>
   here is a run down of some stuff.
 
   <ul>
@@ -17,4 +18,5 @@
     <li>But if you dont care and will aske either ways then mail me i guess. here is the link: reeldob34@gmail.com . and dont get your hopes up cuz i rarely open gamil.<li/>
     <li>Im not gonna make a another 🚁 joke and i swear im not ❌ 🏳️‍🌈, please dont kill me. (i censored the words)<li/>
   <ul/>
+  <p/>
 <div/>
