@@ -2,6 +2,8 @@
 
 ### Im Sorbi (☝️🤓) if you didnt see the left side of your screen.
 
+<img src="./ULTRAPET.gif"/>
+
 here is a run down of some stuff.
 
 - Im a student at "Pinecone" with one of those "<" and ">" (i hope i said the name correctly) and im currently learning web development (🤡🤓).
