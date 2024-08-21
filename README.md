@@ -1,11 +1,33 @@
-<h1 style="text-align = center;">Hoi there!!1!1 🙃👎 (i know you get this joke)</h1>
+<h1 align="center">Hoi there!!1!1 🙃👎 (i know you get this joke)</h1>
 
-<h3 style="text-align = center;">Im Sorbi (☝️🤓) if you didnt see the left side of your screen.</h3>
+<h3 align="center">Im Sorbi (☝️🤓) if you didnt see the left side of your screen.</h3>
 
-<img src="./ULTRAPET.gif"/>
+###
+
+<div style="width: 100%; display: flex; justify-content: center; align-items: center">
+  <img src="./ULTRAPET.gif"/>
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=sorbTheGoobert&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorbTheGoobert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&custom_title=ignore%20C%20and%20Cpp" height="150" alt="languages graph"  />
+  </div>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+</div>
+
+###
 
 <div>
-  <p>here is a run down of some stuff.</p>
+  <h3>here is a run down of some stuff.</h3>
 
   <ul>
     <li>Im a student at "Pinecone" with one of those "<" and ">" (i hope i said the name correctly) and im currently learning web development (🤡🤓).</li>
@@ -18,3 +40,9 @@
     <li>Im not gonna make a another 🚁 joke and i swear im not ❌ 🏳️‍🌈, please dont kill me. (i censored the words)</li>
   </ul>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/sorbTheGoobert/sorbTheGoobert/output/snake.svg" alt="Snake animation" />
+
+###
