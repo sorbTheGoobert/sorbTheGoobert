@@ -3,9 +3,11 @@
 <h3 align="center">Im Sorbi (☝️🤓) if you didnt see the left side of your screen.</h3>
 
 ###
-
 <div style="width: 100%; display: flex; justify-content: center; align-items: center">
   <img src="./ULTRAPET.gif"/>
+</div>
+
+<div style="width: 100%; display: flex; justify-content: center; align-items: center">
   <div align="center">
     <img src="https://streak-stats.demolab.com?user=sorbTheGoobert&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorbTheGoobert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&custom_title=ignore%20C%20and%20Cpp" height="150" alt="languages graph"  />
